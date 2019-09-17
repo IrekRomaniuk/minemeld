@@ -15,3 +15,9 @@ There are 3 main repos for the MineMeld source code:
 - the engine https://github.com/PaloAltoNetworks/minemeld-core
 - the Web UI https://github.com/PaloAltoNetworks/minemeld-webui
 - the prototypes library https://github.com/PaloAltoNetworks/minemeld-node-prototypes
+
+###
+
+[how to](https://www.howtoforge.com/tutorial/how-to-create-docker-images-with-dockerfile/)
+
+docker build -t minemeld .
